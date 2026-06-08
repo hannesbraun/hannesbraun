@@ -1,2 +1,2 @@
-My repositories are (slowly) moving to SourceHut:
+My repositories moved to SourceHut:
 https://sr.ht/~hannes
